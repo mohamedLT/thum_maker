@@ -1,0 +1,7 @@
+x : 575
+y : 315
+end x : 785
+end y : 460
+focus : true
+blur : 10
+image : vlc.png
